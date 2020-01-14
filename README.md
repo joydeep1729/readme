@@ -22,6 +22,6 @@ https://www.cyberciti.biz/tips/howto-linux-increase-pid-limits.html
 Plase visit the following link for details: 
 https://www.cyberciti.biz/faq/centos-redhat-debian-linux-neighbor-table-overflow/
 
-3. To reduce the high CPU usage by kswapd, you should set vm.swappiness = 0
+3. To reduce the high CPU usage by kswapd, you should set ``vm.swappiness = 0``
 Plase visit the following link for details: 
 https://askubuntu.com/questions/259739/kswapd0-is-taking-a-lot-of-cpu
